@@ -1,0 +1,71 @@
+{
+	"doctors": [
+		{
+			"id": 1,
+			"name": "DR. REYAN ANIS",
+			"degree": "MBBS, D-Card, MSC",
+			"special": "CARDIOLOGY",
+			"img": "https://www.uhlbd.com/backend/web/product_uploads/1527920169_2_dr%20reyan.jpg",
+			"desc": "Dr. Reyan Anis, MRCP, one of the most renowned cardiologists of the country has joined United Hospital of the capital, where she is now seeing patients full time and performing cardiac procedures at Cath Lab.After graduating from Dhaka Medical College in 1985, Dr. Anis worked for just over a year at CMH in Dhaka before moving abroad. She completed a program in Internal Medicine from Edinburgh Postgraduate Institute of Medicine in the United Kingdom in 1989 before joining Scotland's Royal Infirmary, Edinburgh as a clinical trainee where she worked until obtaining her MRCP in 1991."
+		},
+		{
+			"id": 2,
+			"name": "DR. MD. HELAL UDDIN",
+			"degree": "MBBS, D-Card, MSC",
+			"special": "CARDIOLOGY",
+			"img": "https://www.uhlbd.com/backend/web/product_uploads/1576145046_2_Dr.%20Md.%20Helal%20Uddin.jpg",
+			"desc": "React Native combines the best parts of native development with React, a best-in-class JavaScript library for building user interfaces "
+		},
+		{
+            
+			"id": 3,
+			"name": "DR. REAZUR RAHMAN",
+			"degree": "MBBS, DTM&H,D-Card",
+			"special": "Medicine",
+			"img": "https://www.uhlbd.com/backend/web/product_uploads/1576145669_2_Reazur%20Rahman_Cardiologist.jpg",
+			"desc": "He passed MBBS in 1994 from Sir Salimullah Medical College under University of Dhaka. He did DTM&H from Mahidol University, Bangkok in 1996. He completed his D-Card from Dhaka University in 2006. He worked in National Heart Foundation Hospital from 2000 to 2005. After that he joined in United Hospital in 2006. "
+	
+		},
+		{
+			"id": 4,
+			"name": "DR. FATEMA BEGUM",
+            "degree": "MBBS, FCPS (Med), MD (Card)",
+			"special": "CARDIOLOGY",
+			"img": "https://www.uhlbd.com/backend/web/product_uploads/1476085817_2_dr%20fatema%20begum.jpg",
+			"desc": "Thirteen years training in cardiology from 1988 to 2001 (As Asstt. Registrar,  Registrar and Asstt. Professor)  with exposure  in Coronary  Care  Unit, Wards,  Referrals,  Outpatients,  Adult  and Pediatric  diagnostic  and  interventional procedure, at National Institute Of Cardiovascular Disease Hospital (NICVD), BIRDEM, Midford Hospital Dhaka & Mymensing Medical College Hospital."
+			
+		},
+		{
+			"id": 5,
+			"name": "PROF. DR. AFZALUR RAHMAN",
+			 "degree": "MBBS, MD (Cardiology), PhD",
+			"special": "CARDIOLOGY",
+			"img": "https://www.uhlbd.com/backend/web/product_uploads/1627815870_2_1452412417_2_Prof.-Dr.-Afzalur-Rahman.jpg",
+			"desc": "Thirteen years training in cardiology from 1988 to 2001 (As Asstt. Registrar,  Registrar and Asstt. Professor)  with exposure  in Coronary  Care  Unit, Wards,  Referrals,  Outpatients,  Adult  and Pediatric  diagnostic  and  interventional procedure, at National Institute Of Cardiovascular Disease Hospital (NICVD), BIRDEM, Midford Hospital Dhaka & Mymensing Medical College Hospital."
+		},
+		{
+			"id": 6,
+			"name": "DR. SHAMIMA",
+			"degree": "MBBS, FCPS",
+			"special": "OBSTETRICS & GYNAECOLOGY",
+			"img": "https://www.uhlbd.com/backend/web/product_uploads/1475999728_2_dr%20nusrat%20zaman.jpg",
+			"desc": "onsultants and Other Service Provider teaching in Reproductive Health, Emergency Obstetric Care Services, SBA & Midwifery Practices, Maternal Nutrition, Breast Feeding, Infection Prevention Practices.Post Graduate Teaching in DGO, MCPS, FCPS & MS Courses in all Medical Colleges and Post Graduate Institutes"
+		},
+		{
+			"id": 7,
+			"name": "DR. EZOANA MAHBUB",
+			"degree": "MBBS, FCPS (Paediatrics)",
+			"special": "Diabetics Special",
+			"img": "https://www.uhlbd.com/backend/web/product_uploads/1614502376_2_Shafique%20Sir_Final%20Image-%203Copy.jpg",
+			"desc": "He is skilled and expert in diagnosis & management of all types of cardiac emergencies with invasive hemodynamic procedure, performing and reporting of Echocardiography, TMT, 24 hrs Holter Monitoring, Performing invasive procedure like coronary angiogram, PTCA, Primary PCI, PPM, TPM and other interventional procedures"
+		},
+		{
+			"id": 8,
+			"name": "DR. REZOANA RIMA",
+			"degree": "MBBS, FCPS (Paediatrics)",
+			"special": "CARDIOLOGY",
+			"img": "https://www.uhlbd.com/backend/web/product_uploads/1587556505_2_Dr.%20%20Rima.jpg",
+			"desc": "Thirteen years training in cardiology from 1988 to 2001 (As Asstt. Registrar,  Registrar and Asstt. Professor)  with exposure  in Coronary  Care  Unit, Wards,  Referrals,  Outpatients,  Adult  and Pediatric  diagnostic  and  interventional procedure, at National Institute Of Cardiovascular Disease Hospital (NICVD), BIRDEM, Midford Hospital Dhaka & Mymensing Medical College Hospital."
+		}
+	]
+}

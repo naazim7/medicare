@@ -1,0 +1,234 @@
+
+html {
+overflow: scroll;
+overflow-x: hidden;
+}
+::-webkit-scrollbar {
+width: 0px;
+}
+
+
+a{
+    text-decoration: none;
+}
+
+
+.topBanner {
+
+    background-image: url("../images/default-banner.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    background-attachment: fixed;
+    background-position: center;
+    min-height:400px;
+}
+.topBannerOverlay {
+
+    position: absolute;
+    width: 100%;
+     min-height:400px;
+     background-color: rgba(0,0,0,0.6);
+     left: 0;
+}
+.centerXY{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.topContent{
+    margin-top: 12rem;
+    color: #ffffff;
+    font-family: 'Montserrat',sans-serif;
+}
+.topText{
+    color: #ffffff;
+    fontfamily: 'Raleway',sans-serif;
+    
+}
+
+.navBg {
+	-o-transition: background-color 400ms linear;
+	-moz-transition: background-color 400ms linear;
+	-webkit-transition: background-color- 400ms linear;
+	transition: background-color 400ms linear;
+	background-color: rgba(00, 00, 00, 0.1) !important;
+    color:black !important;
+}
+.navBgScroll {
+	background-color: #ffffff !important;
+	-o-transition: background-color 400ms linear;
+	-moz-transition: background-color 400ms linear;
+	-webkit-transition: background-color- 400ms linear;
+	transition: background-color 400ms linear;
+}
+
+.titleRegular{
+    color: steelblue;
+    margin:5px;
+}
+.sliderImage{
+    height:350px;
+    width:80%
+}
+.customCard {
+	
+	box-shadow: 0 0 4px 0 rgba(0, 115, 230, 0.2);
+}
+.customCard:hover {
+	box-shadow: 0 0 10px 0 rgba(0, 115, 230, 0.2);
+}
+.counterBg{
+
+   background-image: url("../images//counterbg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width:100%;
+
+    background-attachment: fixed;
+    background-position: center;
+    min-height:300px;
+}
+.counterBgOverlay{
+    
+    position: absolute;
+    width: 100%;
+     min-height:300px;
+     background-color: rgba(0,0,0,0.6);
+     left: 0;
+}
+.counter{
+    font-family: "Montserrat",sans-serif;
+    font-size:32px;
+    color:#ffffff;
+    font-weight:700;
+}
+.bulletIcon{
+    color: steelblue;
+font-size: 16px;
+margin-right: 7px;
+}
+.bulletIconS{
+    color:white;
+font-size: 16px;
+margin-right: 10px;
+}
+.bulletIconS:hover{
+    color:rgb(207, 193, 230);
+
+}
+.videoThumb{
+    width:80%;
+    height:100%;
+}
+.sliderImage{
+    width: 350px;
+    height:350px;
+}
+
+
+.PageTopBanner {
+
+    background-image: url("../images/topBanner2.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    background-attachment: fixed;
+    background-position: center;
+    min-height:300px;
+}
+.PageTopBannerOverlay {
+
+    position: absolute;
+    width: 100%;
+     min-height:300px;
+     background-color: rgba(0,0,0,0.6);
+     left: 0;
+}
+.doctorCard{
+    	box-shadow: 0 0 4px 0 rgba(0, 115, 230, 0.2);
+        width: 18rem;
+        height: 30rem;
+        margin: 10px;
+        font-weight: 600;
+}
+.doctorCardText{
+    color: rgba(7, 103, 247, 0.918);
+    padding:10px;
+    font-family:"Raleway",sans-serif;
+}
+
+.doctorImg{
+    height:300px;
+    width:100%;
+}
+.buttonCustom{
+    background-color:rgb(98, 85, 172);
+    color: white;
+    border:none;
+    paddinng: 8px 15px;
+    border-radius:15px;
+}
+.buttonCustom a{
+    color: white;
+    text-decoration: none;
+}
+
+
+.footerTitle{
+    font-size:17px;
+
+}
+.footerText{
+    font-size:13px;
+}
+.footerLink{
+    text-decoration: none;
+    font-size: 13px;
+    color: #ffffff;
+    display:block;
+    margin-top: 5px;
+}
+.footerLink:hover{
+    color: steelblue;
+
+}
+
+
+.doctorProfile{
+    width:400px;
+    height:450px;
+}
+
+
+.roundedImg{
+    height:200px;
+    width:200px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 760px) {
+
+*{
+    overflow-x: hidden;
+}
+
+ .counterBg{
+     min-height: 350px;
+ }
+ .counterBgOverlay{
+    min-height:350px;
+ }
+}
